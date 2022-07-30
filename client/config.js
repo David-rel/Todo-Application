@@ -1,0 +1,1 @@
+export const TaskContractAddress = '0xEC4090bd523f61bAc3eC5bc2f0AABDD4BA26d99e'
